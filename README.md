@@ -1,4 +1,4 @@
-# Crop-Prediction
+# Crop-Prediction-VGG-and_Opencv
 
 This project focuses on predicting crop types using computer vision techniques and deep learning models. The key features of this repository are:
 
