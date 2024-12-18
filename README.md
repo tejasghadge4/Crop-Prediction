@@ -1,8 +1,8 @@
-# Crop-Prediction-VGG-and_Opencv
+# Crop-Prediction-VGG-and-Opencv
 
 This project focuses on predicting crop types using computer vision techniques and deep learning models. The key features of this repository are:
 
-Preprocessing with OpenCV:
+Preprocessing with OpenCV - 
 OpenCV is used for image preprocessing tasks such as resizing, normalization, and augmentations to prepare the dataset for training.
 
 Deep Learning Model - VGG16:
